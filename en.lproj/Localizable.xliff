@@ -5,6 +5,10 @@
 			<tool tool-id="lokalise.com" tool-name="Lokalise"></tool>
 		</header>
 		<body>
+			<trans-unit id="home::created_by">
+				<source>This app uses {tool}.</source>
+				<target>This app uses {tool}.</target>
+			</trans-unit>
 			<trans-unit id="about::testingz">
 				<source>test</source>
 				<target>test</target>
